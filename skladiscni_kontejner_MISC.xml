@@ -78,4 +78,30 @@
 			</phone>
 		</phone_list>
 	</ad_item>
+	<ad_item class="ad_simple">
+		<user_id>VAŠ_USER_ID</user_id>
+		<category_id>28110</category_id>
+		<original_id>SKLKONT-004</original_id>
+		<location_id>27136</location_id>
+		<isApproximateLocationOnMap>0</isApproximateLocationOnMap>
+		<userCompany>Podjetje</userCompany>
+		<title>Kontejner za shrambo - Koper</title>
+		<description_raw>Praktičen skladiščni kontejner v dobrem stanju. Enostaven transport, takojšnja uporaba. Ogled možen v Kopru.</description_raw>
+		<conditionId>10</conditionId>
+		<price>2400.00</price>
+		<priceOnRequest>0</priceOnRequest>
+		<webshopLink>https://www.vasa-trgovina.si/</webshopLink>
+		<typeOfTransaction>Prodam</typeOfTransaction>
+		<internalItemCode>SKLKONT-004</internalItemCode>
+		<image_list>
+			<image>https://raw.githubusercontent.com/vilder/bolha-xml/main/images/skladiscni-kontejner-1.jpg</image>
+		</image_list>
+		<phone_list>
+			<phone>
+				<calling_code>386</calling_code>
+				<area_code>41</area_code>
+				<phone_number>123456</phone_number>
+			</phone>
+		</phone_list>
+	</ad_item>
 </ad_list>
