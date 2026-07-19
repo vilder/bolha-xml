@@ -104,4 +104,30 @@
 			</phone>
 		</phone_list>
 	</ad_item>
+	<ad_item class="ad_simple">
+		<user_id>VAŠ_USER_ID</user_id>
+		<category_id>28110</category_id>
+		<original_id>SKLKONT-005</original_id>
+		<location_id>27136</location_id>
+		<isApproximateLocationOnMap>0</isApproximateLocationOnMap>
+		<userCompany>Podjetje</userCompany>
+		<title>Kontejner 20ft - primeren za orodje in material</title>
+		<description_raw>Prodam skladiščni ladijski kontejner dimenzij 20 čevljev (6 x 2,4 x 2,6 m). Vodotesen, primeren za skladiščenje orodja, materiala ali opreme. Zaklepanje z varnostnimi vrati. Lokacija Koper. Možna dostava po dogovoru.</description_raw>
+		<conditionId>10</conditionId>
+		<price>2400.00</price>
+		<priceOnRequest>0</priceOnRequest>
+		<webshopLink>https://www.vasa-trgovina.si/</webshopLink>
+		<typeOfTransaction>Prodam</typeOfTransaction>
+		<internalItemCode>SKLKONT-005</internalItemCode>
+		<image_list>
+			<image>https://raw.githubusercontent.com/vilder/bolha-xml/main/images/skladiscni-kontejner-3.jpg</image>
+		</image_list>
+		<phone_list>
+			<phone>
+				<calling_code>386</calling_code>
+				<area_code>41</area_code>
+				<phone_number>123456</phone_number>
+			</phone>
+		</phone_list>
+	</ad_item>
 </ad_list>
