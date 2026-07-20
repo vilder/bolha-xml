@@ -156,7 +156,7 @@
 			</phone>
 		</phone_list>
 	</ad_item>
-	<ad_item class="ad_simple">
+<ad_item class="ad_simple">
 		<user_id>4220520</user_id>
 		<category_id>28110</category_id>
 		<original_id>SKLKONT-007</original_id>
@@ -182,7 +182,7 @@
 			</phone>
 		</phone_list>
 	</ad_item>
-	<ad_item class="ad_simple">
+<ad_item class="ad_simple">
 		<user_id>4220520</user_id>
 		<category_id>27558</category_id>
 		<original_id>SKLOPR-001</original_id>
@@ -199,6 +199,58 @@
 		<internalItemCode>SKLOPR-001</internalItemCode>
 		<image_list>
 			<image>https://raw.githubusercontent.com/vilder/bolha-xml/main/images/skladiscni-kontejner-1.jpg</image>
+		</image_list>
+		<phone_list>
+			<phone>
+				<calling_code>386</calling_code>
+				<area_code>30</area_code>
+				<phone_number>555001</phone_number>
+			</phone>
+		</phone_list>
+	</ad_item>
+	<ad_item class="ad_simple">
+		<user_id>4220520</user_id>
+		<category_id>28110</category_id>
+		<original_id>SKLKONT-008</original_id>
+		<location_id>27136</location_id>
+		<isApproximateLocationOnMap>0</isApproximateLocationOnMap>
+		<userCompany>Podjetje</userCompany>
+		<title>LADIJSKI KONTEJNER 20ft / 20ft HC (Skladiščni kontejner)</title>
+		<description_raw>Največja zaloga kontejnerjev na Štajerskem in Primorskem. Hitra dobava neposredno iz lokalnih depojev Koper in Ptuj. Zagotovljena tehnična brezhibnost in takojšen prevzem. Direktna prodaja brez posrednikov, blago ocarinjeno.</description_raw>
+		<conditionId>10</conditionId>
+		<price>2400.00</price>
+		<priceOnRequest>0</priceOnRequest>
+		<webshopLink>https://www.starcontainers.si/</webshopLink>
+		<typeOfTransaction>Prodam</typeOfTransaction>
+		<internalItemCode>SKLKONT-008</internalItemCode>
+		<image_list>
+			<image>https://raw.githubusercontent.com/vilder/bolha-xml/main/images/dostava-2.jpeg</image>
+		</image_list>
+		<phone_list>
+			<phone>
+				<calling_code>386</calling_code>
+				<area_code>30</area_code>
+				<phone_number>555001</phone_number>
+			</phone>
+		</phone_list>
+	</ad_item>
+	<ad_item class="ad_simple">
+		<user_id>4220520</user_id>
+		<category_id>27558</category_id>
+		<original_id>SKLOPR-002</original_id>
+		<location_id>27136</location_id>
+		<isApproximateLocationOnMap>0</isApproximateLocationOnMap>
+		<userCompany>Podjetje</userCompany>
+		<title>LADIJSKI KONTEJNER 20ft / 20ft HC (Skladiščni kontejner)</title>
+		<description_raw>Največja zaloga kontejnerjev na Štajerskem in Primorskem. Hitra dobava neposredno iz lokalnih depojev Koper in Ptuj. Zagotovljena tehnična brezhibnost in takojšen prevzem. Direktna prodaja brez posrednikov, blago ocarinjeno.</description_raw>
+		<conditionId>10</conditionId>
+		<price>2400.00</price>
+		<priceOnRequest>0</priceOnRequest>
+		<webshopLink>https://www.starcontainers.si/</webshopLink>
+		<typeOfTransaction>Prodam</typeOfTransaction>
+		<internalItemCode>SKLOPR-002</internalItemCode>
+		<image_list>
+			<image>https://raw.githubusercontent.com/vilder/bolha-xml/main/images/20ft-a2.jpg</image>
 		</image_list>
 		<phone_list>
 			<phone>
