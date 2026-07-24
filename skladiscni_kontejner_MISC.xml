@@ -260,7 +260,7 @@
 			</phone>
 		</phone_list>
 	</ad_item>
-	<ad_item class="ad_simple">
+<ad_item class="ad_simple">
 		<user_id>4220520</user_id>
 		<category_id>28110</category_id>
 		<original_id>SKLKONT-012</original_id>
@@ -286,7 +286,7 @@
 			</phone>
 		</phone_list>
 	</ad_item>
-	<ad_item class="ad_simple">
+<ad_item class="ad_simple">
 		<user_id>4220520</user_id>
 		<category_id>27558</category_id>
 		<original_id>SKLOPR-006</original_id>
@@ -303,6 +303,58 @@
 		<internalItemCode>SKLOPR-006</internalItemCode>
 		<image_list>
 			<image>https://raw.githubusercontent.com/vilder/bolha-xml/main/images/rabljen-20ft-main.jpg</image>
+		</image_list>
+		<phone_list>
+			<phone>
+				<calling_code>386</calling_code>
+				<area_code>30</area_code>
+				<phone_number>555001</phone_number>
+			</phone>
+		</phone_list>
+	</ad_item>
+	<ad_item class="ad_simple">
+		<user_id>4220520</user_id>
+		<category_id>28110</category_id>
+		<original_id>SKLKONT-013</original_id>
+		<location_id>27136</location_id>
+		<isApproximateLocationOnMap>0</isApproximateLocationOnMap>
+		<userCompany>Podjetje</userCompany>
+		<title>LADIJSKI KONTEJNER 40ft / 40ft HC (Skladiščni kontejner)</title>
+		<description_raw>Novi in rabljeni ladijski kontejnerji, dostava 48h po celi Sloveniji. Vodoodporni, protivlomni, certificirani ISO. Idealni za skladiščenje, gradbišče ali delavnico. Depo Koper in Ptuj, ogled in izbira na licu mesta.</description_raw>
+		<conditionId>10</conditionId>
+		<price>2400.00</price>
+		<priceOnRequest>0</priceOnRequest>
+		<webshopLink>https://www.starcontainers.si/</webshopLink>
+		<typeOfTransaction>Prodam</typeOfTransaction>
+		<internalItemCode>SKLKONT-013</internalItemCode>
+		<image_list>
+			<image>https://raw.githubusercontent.com/vilder/bolha-xml/main/images/skladiscni-kontejner-3.jpg</image>
+		</image_list>
+		<phone_list>
+			<phone>
+				<calling_code>386</calling_code>
+				<area_code>30</area_code>
+				<phone_number>555001</phone_number>
+			</phone>
+		</phone_list>
+	</ad_item>
+	<ad_item class="ad_simple">
+		<user_id>4220520</user_id>
+		<category_id>27558</category_id>
+		<original_id>SKLOPR-007</original_id>
+		<location_id>27136</location_id>
+		<isApproximateLocationOnMap>0</isApproximateLocationOnMap>
+		<userCompany>Podjetje</userCompany>
+		<title>LADIJSKI KONTEJNER 10ft / 20ft / 40ft HC (Skladiščni kontejner)</title>
+		<description_raw>10ft (D: 3,03 m | Š: 2,44 m | V: 2,59 m) - Nov/First Trip: 2.100 €+DDV. 20ft rabljen 990-1790 €, nov 2.200-2.300 €, HC 2.500 €. 40ft rabljen 1.700-2.200 €, nov 2.650-2.800 €. Najem 20ft od 65 €/mesec. Depo Koper, Ptuj.</description_raw>
+		<conditionId>10</conditionId>
+		<price>2400.00</price>
+		<priceOnRequest>0</priceOnRequest>
+		<webshopLink>https://www.starcontainers.si/</webshopLink>
+		<typeOfTransaction>Prodam</typeOfTransaction>
+		<internalItemCode>SKLOPR-007</internalItemCode>
+		<image_list>
+			<image>https://raw.githubusercontent.com/vilder/bolha-xml/main/images/20ft-moder.jpeg</image>
 		</image_list>
 		<phone_list>
 			<phone>
