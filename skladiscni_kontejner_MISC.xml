@@ -416,7 +416,7 @@
 			</phone>
 		</phone_list>
 	</ad_item>
-	<ad_item class="ad_simple">
+<ad_item class="ad_simple">
 		<user_id>4220520</user_id>
 		<category_id>28110</category_id>
 		<original_id>SKLKONT-015</original_id>
@@ -442,7 +442,7 @@
 			</phone>
 		</phone_list>
 	</ad_item>
-	<ad_item class="ad_simple">
+<ad_item class="ad_simple">
 		<user_id>4220520</user_id>
 		<category_id>27558</category_id>
 		<original_id>SKLOPR-009</original_id>
@@ -459,6 +459,58 @@
 		<internalItemCode>SKLOPR-009</internalItemCode>
 		<image_list>
 			<image>https://raw.githubusercontent.com/vilder/bolha-xml/main/images/20ft-moder.jpeg</image>
+		</image_list>
+		<phone_list>
+			<phone>
+				<calling_code>386</calling_code>
+				<area_code>30</area_code>
+				<phone_number>555001</phone_number>
+			</phone>
+		</phone_list>
+	</ad_item>
+	<ad_item class="ad_simple">
+		<user_id>4220520</user_id>
+		<category_id>28110</category_id>
+		<original_id>SKLKONT-016</original_id>
+		<location_id>27136</location_id>
+		<isApproximateLocationOnMap>0</isApproximateLocationOnMap>
+		<userCompany>Podjetje</userCompany>
+		<title>LADIJSKI KONTEJNER 6M</title>
+		<description_raw>10ft (D: 3,03 m | S: 2,44 m | V: 2,59 m) - Nov/First Trip: 2.100 EUR+DDV. 20ft rabljen 990-1790 EUR, nov 2.200-2.300 EUR, HC 2.500 EUR. 40ft rabljen 1.700-2.200 EUR, nov 2.650-2.800 EUR. Najem 20ft od 65 EUR/mesec. Depo Koper, Ptuj.</description_raw>
+		<conditionId>10</conditionId>
+		<price>2.300</price>
+		<priceOnRequest>0</priceOnRequest>
+		<webshopLink>https://www.starcontainers.si/</webshopLink>
+		<typeOfTransaction>Prodam</typeOfTransaction>
+		<internalItemCode>SKLKONT-016</internalItemCode>
+		<image_list>
+			<image>https://raw.githubusercontent.com/vilder/bolha-xml/main/images/reefer-1.jpg</image>
+		</image_list>
+		<phone_list>
+			<phone>
+				<calling_code>386</calling_code>
+				<area_code>30</area_code>
+				<phone_number>555001</phone_number>
+			</phone>
+		</phone_list>
+	</ad_item>
+	<ad_item class="ad_simple">
+		<user_id>4220520</user_id>
+		<category_id>27558</category_id>
+		<original_id>SKLOPR-010</original_id>
+		<location_id>27136</location_id>
+		<isApproximateLocationOnMap>0</isApproximateLocationOnMap>
+		<userCompany>Podjetje</userCompany>
+		<title>LADIJSKI KONTEJNER 10ft / 20ft / 40ft HC (Skladisni kontejner)</title>
+		<description_raw>10ft (D: 3,03 m | S: 2,44 m | V: 2,59 m) - Nov/First Trip: 2.100 EUR+DDV. 20ft rabljen 990-1790 EUR, nov 2.200-2.300 EUR, HC 2.500 EUR. 40ft rabljen 1.700-2.200 EUR, nov 2.650-2.800 EUR. Najem 20ft od 65 EUR/mesec. Depo Koper, Ptuj.</description_raw>
+		<conditionId>10</conditionId>
+		<price>2400.00</price>
+		<priceOnRequest>0</priceOnRequest>
+		<webshopLink>https://www.starcontainers.si/</webshopLink>
+		<typeOfTransaction>Prodam</typeOfTransaction>
+		<internalItemCode>SKLOPR-010</internalItemCode>
+		<image_list>
+			<image>https://raw.githubusercontent.com/vilder/bolha-xml/main/images/skladiscni-kontejner-2.jpg</image>
 		</image_list>
 		<phone_list>
 			<phone>
